@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="160">
+	<rect x="0" y="0" width="100%" height="100%" fill="#f9f9f9"/>
+	<text x="20" y="30" fill="#333" font_size="18" font_family="Arial">👁️ Visualizações do perfil de Otávio Pavan</text>
+	<text x="20" y="60" fill="#555" font_size="16" font_family="Arial">📅 Hoje: 23</text>
+	<text x="20" y="85" fill="#555" font_size="16" font_family="Arial">📈 Esta semana: 102</text>
+	<text x="20" y="110" fill="#555" font_size="16" font_family="Arial">📆 Este mês: 430</text>
+	<text x="20" y="135" fill="#555" font_size="16" font_family="Arial">🔢 Total: 2103</text>
+</svg>
