@@ -14,7 +14,8 @@ Eu sou o Otávio Pavan, ingressante em Segurança da Informação, apaixonado pe
 
 ### Negócios
 - :paperclip: [My Resume/CV](https://drive.google.com/file/d/1Uk8o6MLd_l8P1bv4iXNRwDaTOtF0DSZC/view?usp=drive_link)
-- :email: [Meu gmail](otaviopavandasilva12@gmail.com)
+- :email: <a href="mailto:otaviopavandasilva12@gmail.com">Enviar um e-mail</a>
+
 
 <br/>
 
