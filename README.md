@@ -1,6 +1,6 @@
-#Olá eu sou o Otávio Pavan👋
+#Olá pode me chamar de Pavan👋
 
-I'm Maksym Rudnyi a Senior Software Engineer with more than 10 years of experience and Content Creator on [YouTube UA](https://www.youtube.com/@MaksymRudnyi), [YouTube EN](https://youtube.com/@TravelsCode). Experienced both in Front-end and Back-end technologies. I Spend most of my time coding outstanding projects or recording tutorials.
+Eu sou o Otávio Pavan, ingressante em Segurança da Informação, apaixonado pela área e em busca de me tornar me um excelente profissional em Cibersecurity. 
 
 :mailbox: Reach me out!
 
