@@ -13,7 +13,7 @@ Eu sou o Otávio Pavan, ingressante em Segurança da Informação, apaixonado pe
 [![Python](https://img.shields.io/badge/-Python-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Django](https://img.shields.io/badge/-Django-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![Selenium](https://img.shields.io/badge/-Selenium-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
 
 ### Negócios
-- :paperclip: [My Resume/CV](https://drive.google.com/file/d/12z5Ig5x4RNoIUpQ-M7AMl1NL8FTIvlaU/view?usp=sharing)
+- :paperclip: [My Resume/CV](https://drive.google.com/file/d/1Uk8o6MLd_l8P1bv4iXNRwDaTOtF0DSZC/view?usp=drive_link)
 - :email: maksym.rudnyi@gmail.com
 
 <br/>
