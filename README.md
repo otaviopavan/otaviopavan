@@ -32,6 +32,8 @@ Eu sou o Otávio Pavan, ingressante em Segurança da Informação, apaixonado pe
 </div>
 
 
-### Contador de Visualizações de Perfil
-[![Otávio Pavan visualizações do perfil](https://u8views.com/api/v1/github/profiles/7869344/views/day-week-month-total-count.svg)](https://u8views.com/github/otaviopavan)
+### Contador de visualizações de perfil
+
+[![Visualizações do perfil de Otávio Pavan](https://u8views.com/api/v1/github/profiles/126889357/views/day-week-month-total-count.svg)](https://u8views.com/github/otaviopavan)
+
 
