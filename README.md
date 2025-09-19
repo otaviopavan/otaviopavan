@@ -2,7 +2,7 @@
 
 Eu sou o Otávio Pavan, ingressante em Segurança da Informação, apaixonado pela área e em busca de me tornar me um excelente profissional em Cibersecurity. 
 
-:mailbox: Reach me out!
+:mailbox: Entre em contato comigo! 👇
 
 [![Linkedin Badge](https://img.shields.io/badge/-Otávio⠀­­­­­Pavan-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/otávio-pavan) 
 [![Mail Badge](https://img.shields.io/badge/-@otavio.pavan-e84393?style=flat&labelColor=FFFF00&logo=instagram&logoColor=white)](https://www.instagram.com/maksym_rudnyi/) 
@@ -12,13 +12,13 @@ Eu sou o Otávio Pavan, ingressante em Segurança da Informação, apaixonado pe
 
 [![Python](https://img.shields.io/badge/-Python-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Django](https://img.shields.io/badge/-Django-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![Selenium](https://img.shields.io/badge/-Selenium-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
 
-### Bizness
+### Negócios
 - :paperclip: [My Resume/CV](https://drive.google.com/file/d/12z5Ig5x4RNoIUpQ-M7AMl1NL8FTIvlaU/view?usp=sharing)
 - :email: maksym.rudnyi@gmail.com
 
 <br/>
 
-### My stats ⭐
+### Meus status ⭐
 
 <div align="center">
 <img alt="otaviopavan GitHub stats" src="https://github-readme-stats.vercel.app/api?username=MaksymRudnyi&show_icons=true&theme=transparent"/>
