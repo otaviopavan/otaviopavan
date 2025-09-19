@@ -5,7 +5,7 @@ Eu sou o Otávio Pavan, ingressante em Segurança da Informação, apaixonado pe
 :mailbox: Entre em contato comigo! 👇
 
 [![Linkedin Badge](https://img.shields.io/badge/-Otávio⠀­­­­­Pavan-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/otávio-pavan) 
-[![Mail Badge](https://img.shields.io/badge/-@otavio.pavan-e84393?style=flat&labelColor=FFFF00&logo=instagram&logoColor=white)](https://www.instagram.com/maksym_rudnyi2/)
+[![Instagram Badge](https://img.shields.io/badge/-@otavio.pavan-FFD700?style=flat&labelColor=FFD700&logo=instagram&logoColor=white)](https://www.instagram.com/ma)
 [![Mail Badge](https://img.shields.io/badge/-otaviopavandasilva12@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:otaviopavandasilva12@gmail.com)
 
 #### Tecnologias que possuo conhecimento
