@@ -25,8 +25,10 @@ Eu sou o Otávio Pavan, ingressante em Segurança da Informação, apaixonado pe
 ### Meus status ⭐
 
 <div align="center">
-<img alt="otaviopavan GitHub stats" src="https://github-readme-stats.vercel.app/api?username=MaksymRudnyi&show_icons=true&theme=transparent"/>
-<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaksymRudnyi&layout=compact&&langs_count=8"/>
+<img alt="otaviopavan GitHub stats" src="https://github-readme-stats.vercel.app/api?username=otaviopavan&show_icons=true&theme=transparent&locale=pt-br"/>
+
+<img alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otaviopavan&layout=compact&langs_count=8&locale=pt-br"/>
+
 </div>
 
 ### Profile views counter 👁️‍🗨️
