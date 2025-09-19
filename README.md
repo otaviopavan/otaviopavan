@@ -4,9 +4,6 @@ I'm Maksym Rudnyi a Senior Software Engineer with more than 10 years of experien
 
 :mailbox: Reach me out!
 
-[![Twitter Badge](https://img.shields.io/badge/-@MaksymRudnyi-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/MaksymRudnyi)](https://twitter.com/MaksymRudnyi) 
-[![Mail Badge](https://img.shields.io/badge/-Maksym_Rudnyi-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.com/@MaksymRudnyi?si=rYeYSkEaREqugOCt) 
-[![Mail Badge](https://img.shields.io/badge/-Travels_And_Code-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.com/@TravelsCode?si=YETDFWm1lvKodZW9) 
 [![Linkedin Badge](https://img.shields.io/badge/-Maksym_Rudnyi-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maksym-rudnyi/) 
 [![Mail Badge](https://img.shields.io/badge/-@Maksym_Rudnyi-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/maksym_rudnyi/) 
 [![Mail Badge](https://img.shields.io/badge/-Maksym_Rudnyi-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:rudik.programer@gmail.com)
@@ -24,7 +21,7 @@ I'm Maksym Rudnyi a Senior Software Engineer with more than 10 years of experien
 ### My stats ⭐
 
 <div align="center">
-<img alt="Maksym's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=MaksymRudnyi&show_icons=true&theme=transparent"/>
+<img alt="otaviopavan GitHub stats" src="https://github-readme-stats.vercel.app/api?username=MaksymRudnyi&show_icons=true&theme=transparent"/>
 <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaksymRudnyi&layout=compact&&langs_count=8"/>
 </div>
 
