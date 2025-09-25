@@ -31,9 +31,5 @@ Eu sou o Otávio Pavan, ingressante em Segurança da Informação, apaixonado pe
 
 </div>
 
-### 👁️ Contador de visualizações do meu perfil
-
-![Visualizações do perfil](https://raw.githubusercontent.com/otaviopavan/otaviopavan/main/contador-visualizacoes.svg)
-
 
 
