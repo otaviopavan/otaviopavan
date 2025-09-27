@@ -4,9 +4,9 @@ Eu sou o Otávio Pavan, ingressante em Segurança da Informação, apaixonado pe
 
 :mailbox: Entre em contato comigo! 👇
 
-[![Linkedin Badge](https://img.shields.io/badge/-Otávio%20Pavan-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/otávio-pavan/)
-[![Instagram Badge](https://img.shields.io/badge/-@otavio.pavan-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/maxsury_mundy12/)
-[![Gmail Badge](https://img.shields.io/badge/-otaviopavandasilva12@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:otaviopavandasilva12@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/Otávio%20Pavan-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/otavio-pavan/)
+[![Instagram Badge](https://img.shields.io/badge/@otavio.pavan-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/maxsury_mundy12/)
+[![Gmail Badge](https://img.shields.io/badge/otaviopavandasilva12@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:otaviopavandasilva12@gmail.com)
 
 
 
